@@ -89,17 +89,3 @@ If you're working on technology in the generative AI or RAG ecosystem - vector d
 - 📢 Share what you learn with your network
 
 Thanks for being part of keeping AI education open and accessible 🙏
-```
-
-## 📁 Setup Instructions
-
-To make the logos work, you need to:
-
-1. **Create an `assets` folder in your profile repository:**
-```
-   mrborntobuild/
-   ├── README.md
-   └── assets/
-       ├── langchain-logo.png
-       ├── langsmith-logo.png
-       └── openrouter-logo.png
