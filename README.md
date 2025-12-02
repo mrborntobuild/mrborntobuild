@@ -29,7 +29,7 @@ I've been building production AI systems for the past year and decided to start 
 If you're working on technology in the generative AI or RAG ecosystem - vector databases, embedding models, web search APIs, orchestration frameworks, observability tools, GPU infrastructure, security layers, or similar - let's partner to create open-source tutorials that showcase real-world implementations. We'll build practical, vendor-neutral notebooks that help developers understand your tool through hands-on examples.
 
 - **Approach** - clean, executable notebooks without paywalls or marketing fluff  
-- **Impact** - developers get working examples, you get organic adoption and visibility
+- **Impact** - developers get working examples
 
 <p align="center">
   Want to collaborate? Reach out via
