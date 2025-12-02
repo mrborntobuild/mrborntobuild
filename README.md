@@ -9,8 +9,6 @@
 AI builder · Community creator – empowering developers to build with AI  
 I've been building production AI systems for the past year and decided to start documenting every step. Join me.
 
-**Focusing on:** LangChain · LangSmith · OpenRouter – Real production-level agents, real code, real deployments
-
 <!-- Static badges -->
 <a href="https://substack.com/@henrymosesjr">
   <img src="https://img.shields.io/badge/Newsletter-Subscribe-green?style=for-the-badge"
@@ -24,12 +22,42 @@ I've been building production AI systems for the past year and decided to start 
 
 ---
 
+## 🛠️ Building With
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" style="padding:20px">
+      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/langchain-logo.png" alt="LangChain" height="60"><br>
+      <b>LangChain</b><br>
+      <sub>Orchestration & Agents</sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/langsmith-logo.png" alt="LangSmith" height="60"><br>
+      <b>LangSmith</b><br>
+      <sub>Observability & Testing</sub>
+    </td>
+    <td align="center" style="padding:20px">
+      <img src="https://raw.githubusercontent.com/mrborntobuild/mrborntobuild/main/assets/openrouter-logo.png" alt="OpenRouter" height="60"><br>
+      <b>OpenRouter</b><br>
+      <sub>Model Routing & APIs</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <i>Real production-level agents · Real code · Real deployments</i>
+</p>
+
+---
+
 ## 🤝 Collaboration – Build Something Together
 
 If you're working on technology in the generative AI or RAG ecosystem - vector databases, embedding models, web search APIs, orchestration frameworks, observability tools, GPU infrastructure, security layers, or similar - let's partner to create open-source tutorials that showcase real-world implementations. We'll build practical, vendor-neutral notebooks that help developers understand your tool through hands-on examples.
 
 - **Approach** - clean, executable notebooks without paywalls or marketing fluff  
-- **Impact** - developers get working examples
+- **Impact** - developers get working examples, you get organic adoption and visibility
 
 <p align="center">
   Want to collaborate? Reach out via
@@ -61,3 +89,17 @@ If you're working on technology in the generative AI or RAG ecosystem - vector d
 - 📢 Share what you learn with your network
 
 Thanks for being part of keeping AI education open and accessible 🙏
+```
+
+## 📁 Setup Instructions
+
+To make the logos work, you need to:
+
+1. **Create an `assets` folder in your profile repository:**
+```
+   mrborntobuild/
+   ├── README.md
+   └── assets/
+       ├── langchain-logo.png
+       ├── langsmith-logo.png
+       └── openrouter-logo.png
