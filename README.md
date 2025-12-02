@@ -7,7 +7,9 @@
 <div align="center">
 
 AI builder · Community creator – empowering developers to build with AI  
-Transforming bleeding-edge AI research into battle-tested, production systems
+I've been building production AI systems for the past year and decided to start documenting every step. Join me.
+
+**Focusing on:** LangChain · LangSmith · OpenRouter – Real production-level agents, real code, real deployments
 
 <!-- Static badges -->
 <a href="https://substack.com/@henrymosesjr">
