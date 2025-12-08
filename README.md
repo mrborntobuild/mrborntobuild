@@ -18,7 +18,7 @@ I've been building production AI systems for the past year and decided to start 
 
 ---
 
-## 🎯 Our Builds
+## 🎯 Featured Project
 
 <div align="center">
 <table>
@@ -27,11 +27,11 @@ I've been building production AI systems for the past year and decided to start 
   </tr>
   <tr>
     <td><b>📓 Jupyter Notebook</b></td>
-    <td><a href="YOUR_NOTEBOOK_LINK">View Notebook</a></td>
+    <td><a href="https://github.com/mrborntobuild/tavus-api-guide/tree/main/notebook">View Notebook</a></td>
   </tr>
   <tr>
     <td><b>🔄 n8n Workflow</b></td>
-    <td><a href="YOUR_N8N_WORKFLOW_LINK">View Workflow</a></td>
+    <td><a href="https://github.com/mrborntobuild/tavus-api-guide/blob/main/n8n/tavus_n8n.json">View Workflow</a></td>
   </tr>
   <tr>
     <td><b>🎥 Demo Video</b></td>
