@@ -1,14 +1,10 @@
 <!--
   keywords: generative ai, llm, retrieval augmented generation, prompt engineering tutorials, production ai agents, langchain, langgraph, vector search, guardrails, open source
 -->
-
 <h1 align="center">Henry Moses 🤖 – Generative AI • LLM • RAG • Production Agents</h1>
-
 <div align="center">
-
 AI builder · Community creator – empowering developers to build with AI  
 I've been building production AI systems for the past year and decided to start documenting every step. Join me.
-
 <!-- Static badges -->
 <a href="https://substack.com/@henrymosesjr">
   <img src="https://img.shields.io/badge/Newsletter-Subscribe-green?style=for-the-badge"
@@ -42,6 +38,11 @@ I've been building production AI systems for the past year and decided to start 
       <b>OpenRouter</b><br>
       <sub>Model Routing & APIs</sub>
     </td>
+    <td align="center" style="padding:20px">
+      <img src="https://bkejwogytnyytefptsyc.supabase.co/storage/v1/object/public/other/Unknown.png" alt="n8n" height="60"><br>
+      <b>n8n</b><br>
+      <sub>Workflow Automation</sub>
+    </td>
   </tr>
 </table>
 </div>
@@ -73,10 +74,13 @@ If you're working on technology in the generative AI or RAG ecosystem - vector d
 
 1. 💌 **Newsletter** – weekly deep dives into Generative AI with code you can run  
    **[Subscribe on Substack](https://substack.com/@henrymosesjr)**
+
 2. 💬 **Discord** – get help, share projects, and connect with other builders  
    **[Join the community](https://discord.gg/f6VKKrQW)**
+
 3. 🔗 **LinkedIn** – new tutorials, project launches, and AI industry insights  
    **[Let's connect](https://www.linkedin.com/in/henry-moses-jr-54b6aa154/)**
+
 4. 🐦 **X/Twitter** – quick takes and daily AI discoveries  
    **[Follow along](https://x.com/mrborntobuildd)**
 
