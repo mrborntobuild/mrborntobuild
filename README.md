@@ -18,6 +18,34 @@ I've been building production AI systems for the past year and decided to start 
 
 ---
 
+## 🎯 Featured Project
+
+<div align="center">
+<table>
+  <tr>
+    <th colspan="2"><h3>Create Conversations with AI Avatars using Tavus</h3></th>
+  </tr>
+  <tr>
+    <td><b>📓 Jupyter Notebook</b></td>
+    <td><a href="YOUR_NOTEBOOK_LINK">View Notebook</a></td>
+  </tr>
+  <tr>
+    <td><b>🔄 n8n Workflow</b></td>
+    <td><a href="YOUR_N8N_WORKFLOW_LINK">View Workflow</a></td>
+  </tr>
+  <tr>
+    <td><b>🎥 Demo Video</b></td>
+    <td><a href="YOUR_DEMO_VIDEO_LINK">Watch Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>🔗 Link</b></td>
+    <td><a href="YOUR_PROJECT_LINK">Try it Out</a></td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 🛠️ Building With
 
 <div align="center">
